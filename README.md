@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #learning git
 
 
@@ -9,3 +10,8 @@ Importants teps for git workflow:
 4. stage changes for commit
 5. commit changes to version control
 6. Review previous changes with git log
+=======
+
+yayy
+hello world
+>>>>>>> updateREADME
